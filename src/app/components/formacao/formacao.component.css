@@ -1,0 +1,53 @@
+.formacao{
+    width: 100%;
+    height: 400px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-top: 1px solid rgba(128, 128, 128, 0.185);
+}
+
+.formacao-box{
+    width: 85%;
+    height: 100%;
+}
+
+.formacao-header{
+    padding-top: 35px;
+    background-color: white;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#formacao-id{
+    font-size: 28px;
+    font-family: 'Inter';
+    font-weight: bold;
+    color:  rgb(23, 54, 78);;
+}
+
+#divisor{
+    width: 15px;
+}
+
+.grupo-texto-body{
+    display: flex;
+    flex-direction: column;
+
+}
+
+#unicesumar-id{
+    font-size: 25px;
+    font-family: 'Inter';
+}
+
+.formacao-body{
+    height: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
